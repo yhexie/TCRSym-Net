@@ -1,3 +1,3 @@
 # TCRSym-Net
 
-The source code and experimental dataset will coming soon.
+The source code and experimental dataset for TCRSym-Net.
